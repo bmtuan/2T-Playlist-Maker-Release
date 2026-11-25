@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.3.0 — 2026-11-25
+
+- Số lần lặp tùy chỉnh: phát các bài của mỗi playlist đúng N lần (A B C A B C…)
+- Kết hợp với "Track / playlist" để lặp từng file thành video dài, VD mỗi file × 10 (khi đó bỏ qua Tối thiểu / Tối đa)
+- Để "Track / playlist" = 0 thì app tự chọn số bài sao cho sau khi lặp vẫn nằm trong khoảng thời lượng
+
 ## v0.2.0 — 2026-11-21
 
 - Loop cho đủ thời lượng: ít bài vẫn tạo được video dài, các bài trong playlist được lặp lại tới khi đạt thời lượng mong muốn (không vượt Tối đa)
