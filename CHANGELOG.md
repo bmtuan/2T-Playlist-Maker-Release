@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.4.0 — 2026-11-26
+
+- Đổi thứ tự bài trong playlist ngay ở màn Xem trước: kéo thả bằng tay nắm ⠿ ở đầu mỗi dòng
+- Nút "Xáo lại thứ tự" để xáo ngẫu nhiên các bài của từng playlist
+- Playlist có lặp: chỉ cần sắp các bài gốc, phần lặp tự đi theo thứ tự mới
+
 ## v0.3.0 — 2026-11-25
 
 - Số lần lặp tùy chỉnh: phát các bài của mỗi playlist đúng N lần (A B C A B C…)
